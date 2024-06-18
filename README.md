@@ -10,3 +10,12 @@ Em minha carreira já trabalhei com a linguagens: Ruby, Javascript, PHP. Na minh
 Atualmente estou me aprimorando na automação mobile, então estou estudando Robot, Appium. Mas não só isso, em paralelo também estou estudando Playwright.
 
 Bom, aqui vocês vão ver de tudo um pouco. Geralmente coloco o código dos meus estudos aqui :smiley:
+
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EderCuer&hide=html,TSQL,CSS,PLSQL,php,SCSS,Jupyter%20Notebook&layout=compact&count_private=true&langs_count=8&bg_color=333333&text_color=ffffff" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EderCuer&show_icons=true&count_private=true&bg_color=333333&text_color=ffffff" /></td>
+    </tr>   
+  </table>
+</center>
