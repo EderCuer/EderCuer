@@ -11,6 +11,21 @@ Atualmente estou me aprimorando na automação mobile, então estou estudando Ro
 
 Bom, aqui vocês vão ver de tudo um pouco. Geralmente coloco o código dos meus estudos aqui :smiley:
 
+_____________________________________________________________________________
+
+## Hello, welcome! My name is Eder Cuer! 👋
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+<p align="left">
+I hold a degree in Computer Science from the Eurípedes University of Marília (UNIVEM) and currently work as a Quality Assurance (QA). Besides working with quality, I also enjoy programming (I even worked as a programmer), and these characteristics led me to specialize in automated testing.
+
+In my career, I have worked with the following languages: Ruby, JavaScript, PHP. In my experience as a QA, I have worked with: Cypress, RSpec, Capybara, Behat, Postman, JMeter, and since I am curious, I also dabble a little in the DevOps world, but just a bit :laughing:
+
+Currently, I am improving my skills in mobile automation, so I am studying Robot and Appium. But that's not all; in parallel, I am also studying Playwright.
+
+Well, here you will see a bit of everything. I usually post the code from my studies here :smiley:
+
 <center>
   <table>
     <tr>
